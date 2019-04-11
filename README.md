@@ -17,13 +17,13 @@ npm install # this can take a while
 ```
 ## Screenshot
 
-![Layout 1](Screenshot.png)
+![Currency list](Screenshot.png)
 
 ## Configuration
 
 Add the module to your modules array in your `config.js`.
 ```
-{
+	{
 			module: "MMM-NOK",
 			position: "top_right", //top_bar, top_left, top_center, top_right, upper_third, middle_center, lower_third, bottom_left, bottom_center, bottom_right, bottom_bar, fullscreen_above, and fullscreen_below
 			config: {
@@ -31,7 +31,7 @@ Add the module to your modules array in your `config.js`.
 				startYear:2010,
 				currencyList: "USD+EUR+GBP",
 			}
-		},
+	},
 ```
 
 ## Credits
