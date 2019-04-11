@@ -17,7 +17,7 @@ npm install # this can take a while
 ```
 ## Screenshot
 
-![Currency list](Screenshot.png)
+![Currency list](screenshot.png)
 
 ## Configuration
 
