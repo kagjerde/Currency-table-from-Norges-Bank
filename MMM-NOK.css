@@ -1,0 +1,51 @@
+/*
+ *
+ * MMM-NOK
+ *
+ * 
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+ .MMM-NOK .icon {
+    height: auto; 
+    width: auto; 
+    max-width: 150px; 
+    padding: 0px 0px;
+    vertical-align: middle;
+    position: relative;
+}
+
+.MMM-NOK .tag {
+    height: auto; 
+    width: auto; 
+    max-width: 20px; 
+    padding: 0px 0px;
+    vertical-align: middle;
+    position: relative;
+}
+
+.MMM-NOK .Mytable {
+    text-align: center;
+    border: 1px;
+    width: 100%;
+    color:rgb(211, 211, 211);
+}
+
+.MMM-NOK .Mytr {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.MMM-NOK .Mytd {
+    padding: 0 6px;
+}
+
+.MMM-NOK .Myth {
+    border-bottom:1px solid white;
+    padding: 0 6px;
+    color: rgb(255, 255, 255);
+}
+
+
