@@ -24,7 +24,7 @@ module.exports = NodeHelper.create({
 		var myUrl = "https://data.norges-bank.no/api/data/EXR/B..NOK.SP?lastNObservations=1&format=sdmx-compact-2.1";
 		//"https://data.norges-bank.no/api/data/EXR/M."+this.config.currencyList+".NOK.SP?startPeriod="+this.config.startYear+"&format=sdmx-compact-2.1";
 
-		console.log("#URL: " + myUrl);
+		//console.log("#URL: " + myUrl);
 		//return new Promise(function (resolve, reject) {
 		request({
 			url: myUrl,
